@@ -941,7 +941,7 @@ section {
   padding: 40px;
 }
 .clients .client-logo img {
-  max-width: 50%;
+  max-width: 80%;
   filter: grayscale(100);
 }
 .clients .client-logo:hover img {
